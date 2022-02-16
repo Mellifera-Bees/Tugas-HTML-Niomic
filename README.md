@@ -33,4 +33,4 @@ HTML
 - Tugas 25 - Semantic Tag Layout.
 
 - Study Kasus HTML - Penerapan Materi Yang Telah Dipelajari Kedalam Study Kasus.
-- Tugas Akhir HTML - Table Element, Video Element, Format Element, Anchor Element, Paragraph, Image Element, Iframe,
+- Tugas Akhir HTML - Table Element, Video Element, Format Element, Anchor Element, Paragraph, Image Element, Iframe.
